@@ -29,7 +29,7 @@ Cleaned string-based numeric columns (e.g., duration and year)
 Encoded categorical variables (LabelEncoder for director, actors, genre)
 Scaled Votes using log transformation
 
-##🤖 Model Building
+## 🤖 Model Building
 Implemented and compared two models:
 Linear Regression
 Decision Tree Regressor
@@ -50,5 +50,5 @@ Add more features like synopsis (NLP), box office, budget, etc.
 Try advanced models (XGBoost, Random Forest)
 Improve UI and deploy on platforms like Render or Hugging Face
 
-✅ Conclusion (Short Version)
+## ✅ Conclusion (Short Version)
 This project explores IMDb rating prediction for Indian movies using metadata and regression models. It sets a solid foundation with clear preprocessing, modeling.
